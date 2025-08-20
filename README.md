@@ -10,8 +10,9 @@ It supports both **manual** and **automatic** modes:
 * ☁️ **Cloud Integration** → Sensor data and controls sync with Firebase.
 
 
-https://github.com/user-attachments/assets/064e5523-a295-451d-96de-10b960104280
 ---
+
+https://github.com/user-attachments/assets/064e5523-a295-451d-96de-10b960104280
 
 ## ✨ Features
 
